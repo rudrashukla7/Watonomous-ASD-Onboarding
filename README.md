@@ -1,4 +1,4 @@
-# wATONOMOUS ASD ONBOARDING TASK
+# WATONOMOUS ASD ONBOARDING TASK
 
 ## Completed by: Rudra Shukla, Aabjosh Singh, Bhavya Kurseja
 
