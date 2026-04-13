@@ -55,7 +55,6 @@ The project enables a simulated robot to navigate from point A to point B while 
 
 - ROS 2
 - Docker
-- OpenCV (optional)
 - Foxglove Studio
 
 Install dependencies using Docker as described in the assignment.
