@@ -95,10 +95,6 @@ Install dependencies using Docker as described in the assignment.
 - Real-world robot deployment  
 - Machine learning-based perception  
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Completed by: Rudra Shukla, Aabjosh Singh, Bhavya Kurseja
 
 
